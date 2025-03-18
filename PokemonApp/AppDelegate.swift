@@ -83,12 +83,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
     
     func checkUserSession() {
-        if UserDefaults.standard.string(forKey: "loggedInUser") != nil {
-            window?.rootViewController = UINavigationController(rootViewController: HomeViewController())
-        } else {
-            window?.rootViewController = SigninPageViewController()
-        }
-        window?.makeKeyAndVisible()
+//        if UserDefaults.standard.string(forKey: "loggedInUser") != nil {
+//            window?.rootViewController = UINavigationController(rootViewController: HomeViewController())
+//        } else {
+//            window?.rootViewController = SigninPageViewController()
+//        }
+//        window?.makeKeyAndVisible()
     }
 
 }
