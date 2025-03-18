@@ -1,0 +1,235 @@
+{
+  "" : {
+    "const-values" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmSwift-master.swiftconstvalues",
+    "dependencies" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmSwift-master.d",
+    "diagnostics" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmSwift-master.dia",
+    "emit-module-dependencies" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmSwift-master.swiftdeps"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/Realm/Swift/RLMSupport.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RLMSupport.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RLMSupport.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RLMSupport.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Aliases.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Aliases.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Aliases.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Aliases.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/AnyRealmValue.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/AnyRealmValue.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/AnyRealmValue.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/AnyRealmValue.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Combine.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Combine.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Combine.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Combine.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/CustomPersistable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/CustomPersistable.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/CustomPersistable.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/CustomPersistable.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Decimal128.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Decimal128.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Decimal128.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Decimal128.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/EmbeddedObject.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/EmbeddedObject.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/EmbeddedObject.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/EmbeddedObject.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Error.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Error.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Error.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Error.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Geospatial.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Geospatial.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Geospatial.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Geospatial.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Impl/BasicTypes.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/BasicTypes.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/BasicTypes.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/BasicTypes.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Impl/CollectionAccess.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/CollectionAccess.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/CollectionAccess.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/CollectionAccess.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Impl/ComplexTypes.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ComplexTypes.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ComplexTypes.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ComplexTypes.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Impl/KeyPathStrings.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/KeyPathStrings.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/KeyPathStrings.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/KeyPathStrings.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Impl/ObjcBridgeable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjcBridgeable.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjcBridgeable.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjcBridgeable.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Impl/Persistable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Persistable.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Persistable.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Persistable.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Impl/PropertyAccessors.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/PropertyAccessors.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/PropertyAccessors.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/PropertyAccessors.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Impl/RealmCollectionImpl.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollectionImpl.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollectionImpl.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollectionImpl.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Impl/SchemaDiscovery.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/SchemaDiscovery.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/SchemaDiscovery.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/SchemaDiscovery.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/LinkingObjects.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/LinkingObjects.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/LinkingObjects.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/LinkingObjects.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/List.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/List.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/List.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/List.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Map.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Map.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Map.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Map.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Migration.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Migration.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Migration.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Migration.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/MutableSet.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/MutableSet.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/MutableSet.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/MutableSet.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Object.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Object.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Object.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Object.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/ObjectId.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectId.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectId.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectId.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/ObjectSchema.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectSchema.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectSchema.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectSchema.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/ObjectiveCSupport+AnyRealmValue.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport+AnyRealmValue.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport+AnyRealmValue.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport+AnyRealmValue.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/ObjectiveCSupport.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ObjectiveCSupport.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Optional.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Optional.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Optional.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Optional.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/PersistedProperty.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/PersistedProperty.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/PersistedProperty.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/PersistedProperty.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Projection.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Projection.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Projection.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Projection.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Property.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Property.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Property.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Property.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Query.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Query.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Query.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Query.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Realm.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Realm.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Realm.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Realm.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/RealmCollection.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollection.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollection.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollection.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/RealmConfiguration.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmConfiguration.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmConfiguration.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmConfiguration.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/RealmKeyedCollection.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmKeyedCollection.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmKeyedCollection.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmKeyedCollection.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/RealmProperty.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmProperty.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmProperty.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmProperty.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Results.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Results.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Results.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Results.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Schema.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Schema.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Schema.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Schema.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/SectionedResults.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/SectionedResults.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/SectionedResults.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/SectionedResults.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/SortDescriptor.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/SortDescriptor.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/SortDescriptor.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/SortDescriptor.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/SwiftUI.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/SwiftUI.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/SwiftUI.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/SwiftUI.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/ThreadSafeReference.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ThreadSafeReference.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ThreadSafeReference.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/ThreadSafeReference.o"
+  },
+  "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/Pods/RealmSwift/RealmSwift/Util.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Util.o",
+    "llvm-bc" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Util.bc",
+    "object" : "/Users/dauddaud/Documents/PrivateData/PokemonProjectApp/PokemonApp/build/Pods.build/Release-iphoneos/RealmSwift.build/Objects-normal/arm64/Util.o"
+  }
+}

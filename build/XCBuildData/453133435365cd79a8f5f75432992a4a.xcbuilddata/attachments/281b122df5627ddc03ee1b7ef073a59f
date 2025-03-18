@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_PokemonAppVersionString[];
+ extern const double Pods_PokemonAppVersionNumber;
+
+ const unsigned char Pods_PokemonAppVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_PokemonApp  PROJECT:Pods-1" "\n";
+ const double Pods_PokemonAppVersionNumber __attribute__ ((used)) = (double)1.;

@@ -1,0 +1,11 @@
+Target dependency graph (5 targets)
+Target 'Pods-PokemonApp' in project 'Pods'
+➜ Explicit dependency on target 'Realm' in project 'Pods'
+➜ Explicit dependency on target 'RealmSwift' in project 'Pods'
+Target 'RealmSwift' in project 'Pods'
+➜ Explicit dependency on target 'Realm' in project 'Pods'
+➜ Explicit dependency on target 'RealmSwift-realm_swift_privacy' in project 'Pods'
+Target 'RealmSwift-realm_swift_privacy' in project 'Pods' (no dependencies)
+Target 'Realm' in project 'Pods'
+➜ Explicit dependency on target 'Realm-realm_objc_privacy' in project 'Pods'
+Target 'Realm-realm_objc_privacy' in project 'Pods' (no dependencies)
