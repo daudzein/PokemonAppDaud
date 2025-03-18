@@ -9,7 +9,7 @@ target 'PokemonApp' do
 
 
 pod 'RealmSwift'
-
+pod 'XLPagerTabStrip'
 
 
 end

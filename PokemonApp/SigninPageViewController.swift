@@ -55,9 +55,9 @@ class SigninPageViewController: UIViewController {
             UserDefaults.standard.set(username, forKey: "loggedInUser")
             UserDefaults.standard.synchronize()
 
-            let homeVC = HomeViewController()
+            let homeVC = MainTabController()
             let navVC = UINavigationController(rootViewController: homeVC)
-            navVC.modalPresentationStyle = .fullScreen
+            navVC.modalPresentationStyle = .overCurrentContext
             present(navVC, animated: true)
         } else {
             showAlert(message: "Username atau Password salah")
@@ -66,7 +66,9 @@ class SigninPageViewController: UIViewController {
 
     @objc func registerTapped() {
         let registerVC = SignupViewController()
-        present(registerVC, animated: true)
+        let navVC = UINavigationController(rootViewController: registerVC)
+        navVC.modalPresentationStyle = .overCurrentContext
+        present(navVC, animated: true)
     }
 
     func showAlert(message: String) {
