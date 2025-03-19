@@ -29,6 +29,18 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     func sceneDidBecomeActive(_ scene: UIScene) {
         // Called when the scene has moved from an inactive state to an active state.
         // Use this method to restart any tasks that were paused (or not yet started) when the scene was inactive.
+        
+        let windowScene = scene as? UIWindowScene
+            let window = UIWindow(windowScene: windowScene!)
+
+            if UserDefaults.standard.string(forKey: "loggedInUser") != nil {
+                window.rootViewController = MainTabController()
+            } else {
+                window.rootViewController = SigninPageViewController()
+            }
+
+            self.window = window
+            window.makeKeyAndVisible()
     }
 
     func sceneWillResignActive(_ scene: UIScene) {
@@ -48,6 +60,18 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
         // Save changes in the application's managed object context when the application transitions to the background.
         (UIApplication.shared.delegate as? AppDelegate)?.saveContext()
+    }
+    
+    func changeRootViewController(_ vc: UIViewController) {
+        guard let window = UIApplication.shared.connectedScenes
+            .compactMap({ $0 as? UIWindowScene })
+            .first?.windows
+            .first else {
+            return
+        }
+        
+        window.rootViewController = vc
+        window.makeKeyAndVisible()
     }
 
 

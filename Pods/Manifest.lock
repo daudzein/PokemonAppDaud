@@ -1,26 +1,44 @@
 PODS:
+  - Alamofire (5.10.2)
   - Realm (20.0.1):
     - Realm/Headers (= 20.0.1)
   - Realm/Headers (20.0.1)
   - RealmSwift (20.0.1):
     - Realm (= 20.0.1)
+  - RxCocoa (6.9.0):
+    - RxRelay (= 6.9.0)
+    - RxSwift (= 6.9.0)
+  - RxRelay (6.9.0):
+    - RxSwift (= 6.9.0)
+  - RxSwift (6.9.0)
   - XLPagerTabStrip (9.1.0)
 
 DEPENDENCIES:
+  - Alamofire
   - RealmSwift
+  - RxCocoa
+  - RxSwift
   - XLPagerTabStrip
 
 SPEC REPOS:
   trunk:
+    - Alamofire
     - Realm
     - RealmSwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
     - XLPagerTabStrip
 
 SPEC CHECKSUMS:
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
   Realm: 9572204903ef28caeb3c03bb30c1147f354ee3e7
   RealmSwift: d230b44017a55a1ba97de6a944da1fe3bedb92b5
+  RxCocoa: ac16414696ae706516be3e1ab00fcce5bdc9be8a
+  RxRelay: 6b0c930e5cef57d5fe2032571e5e65b78e3cbdb1
+  RxSwift: 31649ace6aceeb422e16ff71c60804f9c3281ed9
   XLPagerTabStrip: 27f3bfe23c53b4251c6481b06b1c289458a3fc1d
 
-PODFILE CHECKSUM: 5d850ef66d58e508ae66738eb6149014f8456f75
+PODFILE CHECKSUM: 6600b4731040a0b1103c498cbe021c1457045002
 
 COCOAPODS: 1.16.2

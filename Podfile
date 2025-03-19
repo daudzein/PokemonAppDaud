@@ -10,6 +10,8 @@ target 'PokemonApp' do
 
 pod 'RealmSwift'
 pod 'XLPagerTabStrip'
-
+pod 'Alamofire'
+pod 'RxSwift'
+pod 'RxCocoa'
 
 end

@@ -18,7 +18,21 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
         window = UIWindow(frame: UIScreen.main.bounds)
-        self.checkUserSession()
+        
+        //let mainTabController = MainTabController()
+        
+        if UserDefaults.standard.string(forKey: "loggedInUser") != nil {
+            //window?.rootViewController = MainTabController()
+            let navigationController = UINavigationController(rootViewController: MainTabController())
+            window?.rootViewController = navigationController
+        } else {
+            //window?.rootViewController = SigninPageViewController()
+            let navigationController = UINavigationController(rootViewController: SigninPageViewController())
+            window?.rootViewController = navigationController
+        }
+
+        window?.makeKeyAndVisible()
+        
         // Override point for customization after application launch.
         return true
     }
@@ -82,14 +96,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
     }
     
-    func checkUserSession() {
-        if UserDefaults.standard.string(forKey: "loggedInUser") != nil {
-            window?.rootViewController = UINavigationController(rootViewController: HomeViewController())
-        } else {
-            window?.rootViewController = SigninPageViewController()
-        }
-        window?.makeKeyAndVisible()
-    }
+//    func checkUserSession() {
+//        if UserDefaults.standard.string(forKey: "loggedInUser") != nil {
+//            window?.rootViewController = UINavigationController(rootViewController: MainTabController())
+//        } else {
+//            window?.rootViewController = SigninPageViewController()
+//        }
+//        window?.makeKeyAndVisible()
+//    }
 
 }
 
